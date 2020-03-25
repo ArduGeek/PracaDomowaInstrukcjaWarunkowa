@@ -1,0 +1,2 @@
+/home/kacper/Desktop/bankomat/bankomat/bin/Release/bankomat.exe
+/home/kacper/Desktop/bankomat/bankomat/obj/x86/Release/bankomat.exe

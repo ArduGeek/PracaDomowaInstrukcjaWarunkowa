@@ -1,0 +1,5 @@
+/home/kacper/Desktop/bankomat/bankomat/bin/Debug/bankomat.exe
+/home/kacper/Desktop/bankomat/bankomat/bin/Debug/bankomat.pdb
+/home/kacper/Desktop/bankomat/bankomat/obj/x86/Debug/bankomat.csprojAssemblyReference.cache
+/home/kacper/Desktop/bankomat/bankomat/obj/x86/Debug/bankomat.exe
+/home/kacper/Desktop/bankomat/bankomat/obj/x86/Debug/bankomat.pdb
